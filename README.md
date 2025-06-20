@@ -1,6 +1,6 @@
 # Satellite Target Tracker
 
-A Python framework that computes a satellite’s circular orbit over Earth, generates customizable ground-track “target” points, and produces a dynamic Google Earth Tour—complete with animated highlight circles, variable camera ‘watch’ radius, and automated freeze/resume logic, packaged as KML for visualization in Google Earth Pro.
+A Python framework that computes a satellite’s circular orbit over Earth, generates customizable ground-track “target” points, and produces a dynamic Google Earth Tour complete with animated highlight circles, variable camera ‘watch’ radius, and automated freeze/resume logic, packaged as KML for visualization in Google Earth Pro.
 
 ---
 
