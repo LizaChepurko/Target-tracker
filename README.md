@@ -51,6 +51,16 @@ circle_radius = max(min_radius, scale_factor * distance_to_satellite)
 
 - scale_factor determines how the circle expands proportionally to satellite–target distance
 - min_radius ensures a baseline circle size even when distance is small
+
+## Instructions and output file
+
+You can use [output_example](https://github.com/LizaChepurko/Target-tracker/blob/main/output_example.kml) file.
+1. Download `output_example`
+2. Open "Google Earth Pro"
+3. Click on "file"
+4. Click on "open"
+5. Open the downloaded file
+6. Click on the camera icon under the "Orbit Tour" to start play the simulation
   
 
 
