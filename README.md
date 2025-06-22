@@ -1,4 +1,4 @@
-# Satellite Target Tracker
+# :satellite: Satellite Target Tracker 
 
 A Python framework that computes a satellite’s circular orbit over Earth, generates customizable ground-track “target” points, and produces a dynamic Google Earth Tour complete with animated highlight circles, variable camera ‘watch’ radius, and automated freeze/resume logic, packaged as KML for visualization in Google Earth Pro.
 
@@ -52,7 +52,7 @@ circle_radius = max(min_radius, scale_factor * distance_to_satellite)
 - scale_factor determines how the circle expands proportionally to satellite–target distance
 - min_radius ensures a baseline circle size even when distance is small
 
-## Instructions and output file
+## 💡 Instructions and output file
 
 You can use [output_example](https://github.com/LizaChepurko/Target-tracker/blob/main/output_example.kml) file.
 1. Download `output_example`
