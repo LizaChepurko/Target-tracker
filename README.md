@@ -61,6 +61,20 @@ You can use [output_example](https://github.com/LizaChepurko/Target-tracker/blob
 4. Click on "open"
 5. Open the downloaded file
 6. Click on the camera icon under the "Orbit Tour" to start play the simulation
+
+## CSV file and angular velocity
+You can check the csv output file [log](https://github.com/LizaChepurko/Target-tracker/blob/main/log.csv)
+
+**parameters** : satellite position, nearest target, camera tilt deg, angular velocity.
+Example results:
+
+![image](https://github.com/user-attachments/assets/69f4106f-53c0-4e40-b4c9-6a5ed133f26f)
+
+***remark: tilt 0° - the camera looking at target***
+
+![image](https://github.com/user-attachments/assets/a52ab6ad-570f-4f64-9ebe-02a1a9bebaea)
+
+***remark: Radians per second***
   
 
 
